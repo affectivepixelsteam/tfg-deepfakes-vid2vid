@@ -17,5 +17,3 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
-/Mask_Guided_Portrait_Editing/datasets/
-/Mask_Guided_Portrait_Editing/results/
